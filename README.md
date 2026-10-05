@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B1220,55:1E3A8A,100:0B1220&height=220&section=header&text=coder2439&fontSize=46&fontColor=F8FAFC&fontAlignY=32&desc=8%2B%20Years%20Full-Stack%20Engineer&descAlignY=54&descSize=18" alt="coder2439 — 8+ Years Full-Stack Engineer" />
-</p>
+<h1 align="center">coder2439</h1>
 
 <h3 align="center">8+ Years Full-Stack Engineer | Web & Mobile | DevOps</h3>
 
