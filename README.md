@@ -1,5 +1,3 @@
-<h1 align="center">coder2439</h1>
-
 <h3 align="center">8+ Years Full-Stack Engineer | Web & Mobile | DevOps</h3>
 
 <p align="center">
@@ -7,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/coder2439"><img src="https://img.shields.io/badge/GitHub-coder2439-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://github.com/coder2439"><img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="mailto:nopepizza9@gmail.com"><img src="https://img.shields.io/badge/Email-nopepizza9%40gmail.com-0F172A?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
